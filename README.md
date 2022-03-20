@@ -3,7 +3,7 @@
 N body simlutaion using pygame. 
 
 This project simulates the trajectory of multi-objects under the influence of Newton's Law of Universal Gravitation, that is 
-</br>F = GMm/r^2. Upon collision of bodies, objects with greater mass are assumed to absorb smaller objects to prevent infinitely small distance in the equation which results in infinite forces.
+F = GMm/r^2. Upon collision of bodies, objects with greater mass are assumed to absorb smaller objects to prevent infinitely small distance in the equation which results in infinite forces.
 
 With authentic parameters of planets in the solar system, the system can also be simulated with elliptical orbits surrounding the sun.
 
